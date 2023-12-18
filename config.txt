@@ -1,4 +1,0 @@
-MONGO_URI=mongodb+srv://yarpshe:A0qrXtAga3ss0gkr@nexust1.hqjwu9g.mongodb.net
-DATABASE_NAME=product_catalog
-COLLECTION_NAME=productstest
-PARSING_DATE=parsingdate
